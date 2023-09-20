@@ -1,1 +1,2 @@
-# dream3D_debDTU_C
+# dream3D 3D fiber reconstruction
+This repository is created to work on the 3D reconstruction of OCT scans of fiber preform composites.
